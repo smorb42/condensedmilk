@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "condensedmilk:item/condensed_lava_bucket"
+  }
+}

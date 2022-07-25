@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:powdered_obsidian",
+      "amount": 3
+    },
+    {
+      "item": "minecraft:magma_block"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "fluid": "condensedmilk:condensed_lava",
+      "amount": 500
+    }
+  ],
+  "heatRequirement": "superheated"
+}
